@@ -1,4 +1,4 @@
-# 
+# Ligero OpenClaw temas. Con pipelines de datos y asistente de voz — optimizado para el máximo rendimiento y eficiencia.
 
 
 
